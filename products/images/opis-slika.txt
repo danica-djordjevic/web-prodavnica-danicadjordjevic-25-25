@@ -1,0 +1,6 @@
+Ovde će se nalaziti slike proizvoda, logo i promotivni materijali.
+
+Slike proizvoda su generisane korišćenjem AI alata:
+- Bing Image Creator (DALL·E model)
+
+Dodatna obrada i prilagođavanje izvršeni su po potrebi.

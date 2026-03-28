@@ -1,0 +1,33 @@
+## Kategorije i proizvodi
+
+### Romani
+
+1. Ponos i predrasude
+2. Mali princ
+3. Lovac u žitu
+4. Veliki Getsbi
+5. Ana Karenjina
+
+### Nauka i obrazovanje
+
+1. Kratka istorija vremena
+2. Sapiens: Kratka istorija čovečanstva
+3. Homo Deus
+4. Misli, brzo i sporo
+5. Gen: Intimna istorija
+
+### Fantastika
+
+1. Hari Poter i Kamen mudrosti
+2. Gospodar prstenova: Družina prstena
+3. Igra prestola
+4. Hobit
+5. Točak vremena
+
+### Lični razvoj
+
+1. Moć navike
+2. Bogat otac, siromašan otac
+3. Kako zadobiti prijatelje i uticati na ljude
+4. Atomske navike
+5. 7 navika uspešnih ljudi

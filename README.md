@@ -1,2 +1,13 @@
-# web-prodavnica-danicadjordjevic-25-25
-Projekat mini web prodavnice za predmet Poslovna softverska OS resenja
+# Mini web prodavnica 
+ 
+## Naziv prodavnice 
+BookNest 
+ 
+## Tema prodavnice 
+Online knjižara
+ 
+## Opis projekta 
+Ovaj repozitorijum sadrzi osnovne elemente mini web prodavnice pripremljene za kasniju realizaciju u WordPress/WooCommerce okruzenju. 
+ 
+## Autor 
+Danica Djordjevic 
